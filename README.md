@@ -106,7 +106,7 @@
 
 ### 📬 Contact Me
 <p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"/> Email: <a href="mailto:dewmi.nimsara@gmail.com">dewmi.nimsara@gmail.com</a><br>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"/> Email: <a href="mailto:dewminimnadee611@gmail.com">dewminimnadee611@gmail.com</a><br>
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"/> LinkedIn: <a href="https://www.linkedin.com/in/dewmi-nimnadee-1b6536358">dewmi-nimnadee-1b6536358</a><br>
   <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="20"/> Portfolio: <a href="#">yourportfolio.com</a>
 </p>

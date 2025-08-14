@@ -23,9 +23,6 @@
 ### 📚 Currently Learning
 <img align="right" src="https://media.giphy.com/media/1kM6U2hkLhS0k/giphy.gif" width="120"/>
 
-- ⚛️ ReactJS + Tailwind CSS  
-- 📡 REST APIs + Postman  
-- 📱 Android Studio  
 - 🧱 Software Architecture & Deployment  
 
 ---
@@ -38,7 +35,6 @@
 | 🐾 **Sasha App** | Dog nutrition & care app with cart and admin panel |
 | 💊 **DexCare Pharmacy** | Multi-branch online medicine ordering system |
 | 🛠️ **TechFix SOA** | Service-Oriented PC repair management |
-| 📊 **Prestige Analysis** | Canadian job prestige data science dashboard |
 
 ---
 
@@ -85,15 +81,6 @@
 
 ---
 
-### 🎉 Fun Facts
-<img align="right" src="https://media.giphy.com/media/dsKnRuALlWsZG/giphy.gif" width="120"/>
-
-- 🎧 I code best with lo-fi music  
-- 🌏 I want to build apps that matter globally  
-- 🎨 I enjoy designing as much as coding  
-- ☕ Always powered by coffee!
-
----
 
 ### 💡 Collaboration Goals
 <img align="right" src="https://cdn-icons-png.flaticon.com/512/1584/1584891.png" width="120"/>
@@ -108,13 +95,7 @@
 <p align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"/> Email: <a href="mailto:dewminimnadee611@gmail.com">dewminimnadee611@gmail.com</a><br>
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"/> LinkedIn: <a href="https://www.linkedin.com/in/dewmi-nimnadee-1b6536358">dewmi-nimnadee-1b6536358</a><br>
-  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="20"/> Portfolio: <a href="#">yourportfolio.com</a>
 </p>
-
----
-
-### 🔄 Contributions Graph
-<p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DewGH01&theme=rogue" alt="GitHub Activity Graph"/> </p>
 
 ---
 
